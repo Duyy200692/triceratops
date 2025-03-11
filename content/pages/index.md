@@ -390,9 +390,7 @@ sections:
 
 
           # Cà phê luôn được biết đến là một trong những loại đồ uống ngon và
-          được ưa chuộng nhất thế giới. Đối với nhiều người, cà phê không chỉ
-          đơn giản là một loại thức uống mà nó còn là một phong cách sống, một
-          nét văn 
+          được ưa
 
 
           ####
