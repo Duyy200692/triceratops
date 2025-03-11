@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
