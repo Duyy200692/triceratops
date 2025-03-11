@@ -384,7 +384,7 @@ sections:
     items:
       - title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: trico.coffee
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
