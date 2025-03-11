@@ -218,7 +218,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=UCcrMfO2ovg&t=7s'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
