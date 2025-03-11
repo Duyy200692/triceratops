@@ -392,9 +392,6 @@ sections:
           #### Cà phê luôn được biết đến là một trong những loại đồ uống ngon và
           được ưa
 
-
-          ####
-
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
