@@ -195,32 +195,26 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: >
-      Chào mọi người! Mình là \[Tên của bạn], một người yêu cà phê đích thực và
-      cũng là một fan cuồng nhiệt của loài khủng long ba sừng Triceratops. Nghe
-      có vẻ lạ phải không? Nhưng chính sự mạnh mẽ, kiên cường và đầy bản lĩnh
-      của loài khủng long này đã truyền cảm hứng cho mình trên hành trình mang
-      đến những hạt cà phê chất lượng nhất.
+    text: >+
+      <div style="text-align: center">Chào mọi người! Mình là \[Tên của bạn],
+      một người yêu cà phê đích thực và cũng là một fan cuồng nhiệt của loài
+      khủng long ba sừng Triceratops. Nghe có vẻ lạ phải không? Nhưng chính sự
+      mạnh mẽ, kiên cường và đầy bản lĩnh của loài khủng long này đã truyền cảm
+      hứng cho mình trên hành trình mang đến những hạt cà phê chất lượng
+      nhất.Mình tin rằng, một tách cà phê ngon không chỉ đơn thuần là một thức
+      uống, mà còn là nguồn năng lượng, là niềm đam mê và là sự kết nối. Cũng
+      giống như Triceratops, dù trải qua bao nhiêu khó khăn, vẫn luôn kiên định
+      với mục tiêu của mình, mình cũng luôn nỗ lực tìm kiếm và chọn lọc những
+      hạt cà phê tốt nhất từ các vùng đất nổi tiếng, rang xay theo phương pháp
+      thủ công để giữ trọn vẹn hương vị tự nhiên.Mỗi loại cà phê mình mang đến
+      đều mang một câu chuyện riêng, một hương vị đặc trưng, giống như những
+      chiếc sừng của Triceratops, mỗi chiếc đều có một vai trò và sức mạnh
+      riêng. Hãy đến với \[Tên thương hiệu cà phê của bạn], nơi bạn không chỉ
+      được thưởng thức những tách cà phê thơm ngon, đậm đà, mà còn được khám phá
+      những câu chuyện thú vị về loài khủng long ba sừng huyền thoại.Mình rất
+      mong được chia sẻ niềm đam mê cà phê và những câu chuyện về Triceratops
+      với tất cả mọi người!</div>
 
-
-      Mình tin rằng, một tách cà phê ngon không chỉ đơn thuần là một thức uống,
-      mà còn là nguồn năng lượng, là niềm đam mê và là sự kết nối. Cũng giống
-      như Triceratops, dù trải qua bao nhiêu khó khăn, vẫn luôn kiên định với
-      mục tiêu của mình, mình cũng luôn nỗ lực tìm kiếm và chọn lọc những hạt cà
-      phê tốt nhất từ các vùng đất nổi tiếng, rang xay theo phương pháp thủ công
-      để giữ trọn vẹn hương vị tự nhiên.
-
-
-      Mỗi loại cà phê mình mang đến đều mang một câu chuyện riêng, một hương vị
-      đặc trưng, giống như những chiếc sừng của Triceratops, mỗi chiếc đều có
-      một vai trò và sức mạnh riêng. Hãy đến với \[Tên thương hiệu cà phê của
-      bạn], nơi bạn không chỉ được thưởng thức những tách cà phê thơm ngon, đậm
-      đà, mà còn được khám phá những câu chuyện thú vị về loài khủng long ba
-      sừng huyền thoại.
-
-
-      Mình rất mong được chia sẻ niềm đam mê cà phê và những câu chuyện về
-      Triceratops với tất cả mọi người!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
