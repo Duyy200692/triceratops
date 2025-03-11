@@ -385,7 +385,18 @@ sections:
       - title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
         tagline: Testimonial 1
         subtitle: trico.coffee
-        text: "#### CÀ PHÊ CHẤT LƯỢNG CAO CÓ GÌ KHÁC BIỆT?\n\n#### Cà phê luôn được biết đến là một trong những loại đồ uống ngon và được ưa chuộng nhất thế giới. Đối với nhiều người, cà phê không chỉ đơn giản là một loại thức uống mà nó còn là một phong cách sống, một nét văn hoá đặc biệt. Và cũng vì thế, nhu cầu thưởng thức cà phê của mỗi người ngày một tăng. Họ cần cà phê phải thực sự chất lượng, hương vị tinh tế, có lợi cho sức khoẻ và đặc biệt họ còn tìm hiểu về nguồn gốc, phương thức canh tác, sơ chế, chế biến của thứ họ đang dùng. Đó cũng chính là những gì cà phê chất lượng cao có thể\_mang lại.\n\n####\n\n####\n\n"
+        text: >+
+          #### CÀ PHÊ CHẤT LƯỢNG CAO CÓ GÌ KHÁC BIỆT?
+
+
+          # Cà phê luôn được biết đến là một trong những loại đồ uống ngon và
+          được ưa chuộng nhất thế giới. Đối với nhiều người, cà phê không chỉ
+          đơn giản là một loại thức uống mà nó còn là một phong cách sống, một
+          nét văn 
+
+
+          ####
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
