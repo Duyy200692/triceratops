@@ -117,7 +117,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/triceratops - blend.png
+          url: /images/triceratops - 3blend.png
           altText: Placeholder image
           styles:
             self:
