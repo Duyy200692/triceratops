@@ -26,9 +26,38 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+Cà phê chứa rất nhiều chất, bao gồm:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+*   **Caffeine:**
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+    *   Đây là chất kích thích nổi tiếng nhất trong cà phê.
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+    *   Caffeine tác động lên hệ thần kinh trung ương, giúp tăng cường sự tỉnh táo và tập trung.
+
+*   **Chất chống oxy hóa:**
+
+    *   Cà phê chứa nhiều chất chống oxy hóa, giúp bảo vệ tế bào khỏi tổn thương do gốc tự do.
+
+    *   Các chất chống oxy hóa trong cà phê bao gồm axit chlorogen, axit caffeic và melanoidin.
+
+*   **Khoáng chất:**
+
+    *   Cà phê chứa một số khoáng chất như kali, magiê và mangan.
+
+*   **Vitamin:**
+
+    *   Cà phê có chứa một lượng nhỏ vitamin B3.
+
+*   **Axit chlorogenic:**
+
+    *   Giúp chống oxy hóa và hỗ trợ quá trình trao đổi chất.
+
+*   **Diterpenes (Cafestol và Kahweol):**
+
+    *   Là các hợp chất có thể ảnh hưởng đến mức cholesterol.
+
+*   **Các hợp chất khác:**
+
+    *   Cà phê còn chứa nhiều hợp chất khác, bao gồm trigonelline, axit quinic và các hợp chất thơm.
+
+Tùy vào loại cà phê, phương pháp chế biến và cách pha chế mà hàm lượng các chất này có thể thay đổi.
