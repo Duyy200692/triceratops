@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
