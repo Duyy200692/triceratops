@@ -194,7 +194,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: TRICERATOPS
     text: >+
       <div style="text-align: left">Chào mọi người! Mình là \[Tên của bạn], một
       người yêu cà phê đích thực và cũng là một fan cuồng nhiệt của loài khủng
