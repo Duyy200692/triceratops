@@ -236,7 +236,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: trico coffee
       color: text-primary
       styles:
         self:
