@@ -350,11 +350,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Liên hệ với chúng tôi :**
+
+
+      Tại Triceratops \[ Trico coffee ], chúng tôi luôn trân trọng sự kết nối
+      với những người yêu cà phê. Dù bạn có bất kỳ câu hỏi, thắc mắc hay đơn
+      giản chỉ muốn chia sẻ niềm đam mê cà phê, đừng ngần ngại liên hệ với chúng
+      tôi
+
+
+
     media:
       fields:
         - name: name
