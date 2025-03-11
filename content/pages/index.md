@@ -250,7 +250,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
     type: GenericSection
   - title:
       text: Social Media Management
