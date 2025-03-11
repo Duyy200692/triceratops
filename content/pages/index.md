@@ -188,18 +188,33 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: niềm đam mê cà phê và câu chuyện về Triceratops
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: TRICERATOPS
+    text: >+
+      <div style="text-align: left">Chào mọi người! Mình là \[Tên của bạn], một
+      người yêu cà phê đích thực và cũng là một fan cuồng nhiệt của loài khủng
+      long ba sừng Triceratops. Nghe có vẻ lạ phải không? Nhưng chính sự mạnh
+      mẽ, kiên cường và đầy bản lĩnh của loài khủng long này đã truyền cảm hứng
+      cho mình trên hành trình mang đến những hạt cà phê chất lượng nhất.Mình
+      tin rằng, một tách cà phê ngon không chỉ đơn thuần là một thức uống, mà
+      còn là nguồn năng lượng, là niềm đam mê và là sự kết nối. Cũng giống như
+      Triceratops, dù trải qua bao nhiêu khó khăn, vẫn luôn kiên định với mục
+      tiêu của mình, mình cũng luôn nỗ lực tìm kiếm và chọn lọc những hạt cà phê
+      tốt nhất từ các vùng đất nổi tiếng, rang xay theo phương pháp thủ công để
+      giữ trọn vẹn hương vị tự nhiên.Mỗi loại cà phê mình mang đến đều mang một
+      câu chuyện riêng, một hương vị đặc trưng, giống như những chiếc sừng của
+      Triceratops, mỗi chiếc đều có một vai trò và sức mạnh riêng. Hãy đến với
+      \[Tên thương hiệu cà phê của bạn], nơi bạn không chỉ được thưởng thức
+      những tách cà phê thơm ngon, đậm đà, mà còn được khám phá những câu chuyện
+      thú vị về loài khủng long ba sừng huyền thoại.Mình rất mong được chia sẻ
+      niềm đam mê cà phê và những câu chuyện về Triceratops với tất cả mọi
+      người!</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -221,7 +236,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: trico coffee
       color: text-primary
       styles:
         self:
@@ -233,6 +248,8 @@ sections:
         flexDirection: col
         justifyContent: center
       subtitle:
+        textAlign: center
+      text:
         textAlign: center
     type: GenericSection
   - title:
@@ -316,199 +333,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
-    items:
-      - title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
-        tagline: Testimonial 1
-        subtitle: trico.coffee
-        text: >+
-          #### CÀ PHÊ CHẤT LƯỢNG CAO CÓ GÌ KHÁC BIỆT?
-
-
-          #### Cà phê luôn được biết đến là một trong những loại đồ uống ngon và
-          được ưa
-
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -543,11 +367,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Liên hệ với chúng tôi :**
+
+
+      Tại Triceratops \[ Trico coffee ], chúng tôi luôn trân trọng sự kết nối
+      với những người yêu cà phê. Dù bạn có bất kỳ câu hỏi, thắc mắc hay đơn
+      giản chỉ muốn chia sẻ niềm đam mê cà phê, đừng ngần ngại liên hệ với chúng
+      tôi
+
+
+
     media:
       fields:
         - name: name

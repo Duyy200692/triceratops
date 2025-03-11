@@ -63,13 +63,13 @@
         {
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
-            "icon": "github",
+            "icon": "youtube",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "icon": "facebook",
             "type": "Social"
         },
         {
@@ -81,7 +81,7 @@
         {
             "altText": "Email link",
             "url": "/",
-            "icon": "mail",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
