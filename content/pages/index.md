@@ -188,7 +188,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: niềm đam mê cà phê và câu chuyện về Triceratops
       color: text-dark
       styles:
         self:
