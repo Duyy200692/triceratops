@@ -164,7 +164,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/lindo 200x80.png
-        altText: Sanity logo
+        altText: lindo logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
