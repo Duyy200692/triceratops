@@ -166,7 +166,7 @@ sections:
       - url: /images/lindo 200x80.png
         altText: lindo logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/vanci 200x80.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
