@@ -167,7 +167,7 @@ sections:
         altText: lindo logo
         type: ImageBlock
       - url: /images/vanci 200x80.png
-        altText: Rangle logo
+        altText: vanci.beauty logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
