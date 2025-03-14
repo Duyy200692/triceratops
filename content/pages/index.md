@@ -64,9 +64,8 @@ sections:
       - type: FeaturedItem
         title: ROBUSTA
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
+        text: "Flavour:\_Riped tropical fruits, brown sugar, dark chocolate\n"
         image:
           type: ImageBlock
           url: /images/triceratops - ro.png
@@ -88,7 +87,7 @@ sections:
       - type: FeaturedItem
         title: ARABICA
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
@@ -112,9 +111,8 @@ sections:
       - type: FeaturedItem
         title: BLEND
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
+        text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n\n\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
         image:
           type: ImageBlock
           url: /images/triceratops - 3blend.png
