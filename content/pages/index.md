@@ -112,8 +112,7 @@ sections:
         title: BLEND
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
         image:
           type: ImageBlock
           url: /images/triceratops - 3blend.png
