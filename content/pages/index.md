@@ -64,7 +64,7 @@ sections:
       - type: FeaturedItem
         title: ROBUSTA
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: "Flavour:\_Riped tropical fruits, brown sugar, dark chocolate\n"
         image:
           type: ImageBlock
