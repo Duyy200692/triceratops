@@ -87,7 +87,7 @@ sections:
       - type: FeaturedItem
         title: ARABICA
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
