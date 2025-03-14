@@ -65,8 +65,7 @@ sections:
         title: ROBUSTA
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: "Flavour:\_Riped tropical fruits, brown sugar, dark chocolate\n"
         image:
           type: ImageBlock
           url: /images/triceratops - ro.png
