@@ -111,7 +111,7 @@ sections:
       - type: FeaturedItem
         title: BLEND
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
         image:
           type: ImageBlock
