@@ -2,64 +2,15 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Unblock your team boost your time to production
-      color: text-dark
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Sản Phẩm Tại Đây
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: '"Cà phê cho những khoảnh khắc thư giãn tuyệt vời"'
     items:
       - type: FeaturedItem
         title: ROBUSTA
@@ -115,7 +66,7 @@ sections:
         text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n\n\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
         image:
           type: ImageBlock
-          url: /images/triceratops - 3blend.png
+          url: /images/triceratops - blend.png
           altText: Placeholder image
           styles:
             self:
@@ -186,32 +137,31 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: niềm đam mê cà phê và câu chuyện về Triceratops
+      text: Niềm đam mê cà phê và câu chuyện về Triceratops
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: TRICERATOPS
+    subtitle: Trico
     text: >+
-      <div style="text-align: left">Chào mọi người! Mình là \[Tên của bạn], một
-      người yêu cà phê đích thực và cũng là một fan cuồng nhiệt của loài khủng
-      long ba sừng Triceratops. Nghe có vẻ lạ phải không? Nhưng chính sự mạnh
-      mẽ, kiên cường và đầy bản lĩnh của loài khủng long này đã truyền cảm hứng
-      cho mình trên hành trình mang đến những hạt cà phê chất lượng nhất.Mình
-      tin rằng, một tách cà phê ngon không chỉ đơn thuần là một thức uống, mà
-      còn là nguồn năng lượng, là niềm đam mê và là sự kết nối. Cũng giống như
-      Triceratops, dù trải qua bao nhiêu khó khăn, vẫn luôn kiên định với mục
-      tiêu của mình, mình cũng luôn nỗ lực tìm kiếm và chọn lọc những hạt cà phê
-      tốt nhất từ các vùng đất nổi tiếng, rang xay theo phương pháp thủ công để
-      giữ trọn vẹn hương vị tự nhiên.Mỗi loại cà phê mình mang đến đều mang một
-      câu chuyện riêng, một hương vị đặc trưng, giống như những chiếc sừng của
-      Triceratops, mỗi chiếc đều có một vai trò và sức mạnh riêng. Hãy đến với
-      \[Tên thương hiệu cà phê của bạn], nơi bạn không chỉ được thưởng thức
-      những tách cà phê thơm ngon, đậm đà, mà còn được khám phá những câu chuyện
-      thú vị về loài khủng long ba sừng huyền thoại.Mình rất mong được chia sẻ
-      niềm đam mê cà phê và những câu chuyện về Triceratops với tất cả mọi
-      người!</div>
+      <div style="text-align: left">Chào mọi người! Mình là một người yêu cà phê
+      đích thực và cũng là một fan cuồng nhiệt của loài khủng long ba sừng
+      Triceratops. Nghe có vẻ lạ phải không? Nhưng chính sự mạnh mẽ, kiên cường
+      và đầy bản lĩnh của loài khủng long này đã truyền cảm hứng cho mình trên
+      hành trình mang đến những hạt cà phê chất lượng nhất.Mình tin rằng, một
+      tách cà phê ngon không chỉ đơn thuần là một thức uống, mà còn là nguồn
+      năng lượng, là niềm đam mê và là sự kết nối. Cũng giống như Triceratops,
+      dù trải qua bao nhiêu khó khăn, vẫn luôn kiên định với mục tiêu của mình,
+      mình cũng luôn nỗ lực tìm kiếm và chọn lọc những hạt cà phê tốt nhất từ
+      các vùng đất nổi tiếng, rang xay theo phương pháp thủ công để giữ trọn vẹn
+      hương vị tự nhiên.Mỗi loại cà phê mình mang đến đều mang một câu chuyện
+      riêng, một hương vị đặc trưng, giống như những chiếc sừng của Triceratops,
+      mỗi chiếc đều có một vai trò và sức mạnh riêng. Hãy đến với Trico, nơi bạn
+      không chỉ được thưởng thức những tách cà phê thơm ngon, đậm đà, mà còn
+      được khám phá những câu chuyện thú vị về loài khủng long ba sừng huyền
+      thoại. Mình rất mong được chia sẻ niềm đam mê cà phê và những câu chuyện
+      về Triceratops với tất cả mọi người!</div>
 
     media:
       title: Title of the video
@@ -251,13 +201,26 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Triceratops - Vị vua ba sừng
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: 'Khám phá thế giới cổ đại '
+    text: >+
+      **Triceratops - Chiến binh ba sừng bất khả chiến bại:**
+
+
+      *   Với chiếc đầu được trang bị ba sừng sắc nhọn và tấm khiên xương đồ sộ,
+      Triceratops là một pháo đài di động, sẵn sàng đối đầu với bất kỳ kẻ thù
+      nào.
+
+
+      *   Thân hình đồ sộ, vững chãi, Triceratops hiên ngang sải bước trên những
+      đồng cỏ bao la, gieo rắc nỗi kinh hoàng cho những kẻ săn mồi.
+
+
+      *   Dù là loài ăn cỏ, Triceratops không hề hiền lành. Chúng là những chiến
+      binh dũng mãnh, sẵn sàng bảo vệ lãnh thổ và đồng loại của mình
+
     actions:
       - label: Get started
         url: /
@@ -273,11 +236,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/view-extinct-triceratops-dinosaur-creature.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: tricocafe.com
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

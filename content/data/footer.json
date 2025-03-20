@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/42x30 trang 1.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Triceratops \\[ Trico cafe ]\n\nCà phê ngon đến nỗi khủng long cũng phải thèm\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by tricocafe.com\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
