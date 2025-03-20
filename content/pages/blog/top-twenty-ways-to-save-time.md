@@ -3,9 +3,9 @@ title: Trong cafe có những chất gì?
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Cà phê chứa nhiều chất chống oxy hóa, giúp bảo vệ tế bào khỏi tổn thương do
+  gốc tự do.Các chất chống oxy hóa trong cà phê bao gồm axit chlorogen, axit
+  caffeic và melanoidin.
 featuredImage:
   url: /images/freshly-roasted-coffee-bean-glass-jar-generated-by-ai.jpg
   altText: Thumbnail
