@@ -3,10 +3,9 @@ title: Các cách pha cà phê lạnh ngon phổ biến
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+  Cold Brew là phương pháp pha đơn giản nhất nhưng cũng mất nhiều thời gian
+  nhất. Quá trình ngâm ủ cà phê trong nước lạnh làm cho Cold Brew có vị đậm, ít
+  chua, và thường mang những hương vị của chocolate và hạt dẻ.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
