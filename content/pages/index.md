@@ -115,7 +115,7 @@ sections:
         text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n\n\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
         image:
           type: ImageBlock
-          url: /images/triceratops - 3blend.png
+          url: /images/triceratops - blend.png
           altText: Placeholder image
           styles:
             self:
