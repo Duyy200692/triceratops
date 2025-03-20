@@ -3,9 +3,9 @@ title: Cà Phê Chất Lượng Cao Có Gì Khác Biệt?
 slug: life-of-our-development-team
 date: '2023-01-16'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Cà phê chất lượng cao khác biệt so với cà phê thông thường ở nhiều khía cạnh,
+  từ quá trình trồng trọt, thu hoạch, chế biến đến hương vị cuối cùng. Dưới đây
+  là những điểm khác biệt chính:
 featuredImage:
   url: /images/image 22.png
   altText: Thumbnail
