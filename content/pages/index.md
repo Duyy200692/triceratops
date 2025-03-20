@@ -205,9 +205,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      **Triceratops - Chiến binh ba sừng bất khả chiến bại:**
+
+
+      *   Với chiếc đầu được trang bị ba sừng sắc nhọn và tấm khiên xương đồ sộ,
+      Triceratops là một pháo đài di động, sẵn sàng đối đầu với bất kỳ kẻ thù
+      nào.
+
+
+      *   Thân hình đồ sộ, vững chãi, Triceratops hiên ngang sải bước trên những
+      đồng cỏ bao la, gieo rắc nỗi kinh hoàng cho những kẻ săn mồi.
+
+
+      *   Dù là loài ăn cỏ, Triceratops không hề hiền lành. Chúng là những chiến
+      binh dũng mãnh, sẵn sàng bảo vệ lãnh thổ và đồng loại của mình
+
     actions:
       - label: Get started
         url: /
