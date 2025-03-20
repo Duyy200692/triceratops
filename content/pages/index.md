@@ -204,7 +204,7 @@ sections:
       text: Triceratops - Vị vua ba sừng
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: 'Khám phá thế giới cổ đại '
     text: >+
       **Triceratops - Chiến binh ba sừng bất khả chiến bại:**
 
