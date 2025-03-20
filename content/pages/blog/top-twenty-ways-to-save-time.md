@@ -7,7 +7,7 @@ excerpt: >-
   gốc tự do.Các chất chống oxy hóa trong cà phê bao gồm axit chlorogen, axit
   caffeic và melanoidin.
 featuredImage:
-  url: /images/freshly-roasted-coffee-bean-glass-jar-generated-by-ai.jpg
+  url: /images/image 28.png
   altText: Thumbnail
   type: ImageBlock
   styles:
