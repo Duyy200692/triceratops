@@ -137,7 +137,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: iềm đam mê cà phê và câu chuyện về TriceratopsN
+      text: Niềm đam mê cà phê và câu chuyện về Triceratops
       color: text-dark
       styles:
         self:
