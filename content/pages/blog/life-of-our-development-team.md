@@ -5,7 +5,7 @@ date: '2023-01-16'
 excerpt: >-
   Cà phê chất lượng cao khác biệt so với cà phê thông thường ở nhiều khía cạnh,
   từ quá trình trồng trọt, thu hoạch, chế biến đến hương vị cuối cùng. Dưới đây
-  là những điểm khác biệt chính:
+  là những điểm khác biệt chính
 featuredImage:
   url: /images/image 22.png
   altText: Thumbnail
