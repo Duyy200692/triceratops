@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: '"Cà phê cho những khoảnh khắc thư giãn tuyệt vời"'
     items:
       - type: FeaturedItem
         title: ROBUSTA
