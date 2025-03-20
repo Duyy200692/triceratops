@@ -192,7 +192,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: TRICERATOPS
+    subtitle: tricocafe.com
     text: >+
       <div style="text-align: left">Chào mọi người! Mình là một người yêu cà phê
       đích thực và cũng là một fan cuồng nhiệt của loài khủng long ba sừng
