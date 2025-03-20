@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: sản phẩm tạiđây
+      text: sản phẩm tại đây
       color: text-primary
       styles:
         self:
