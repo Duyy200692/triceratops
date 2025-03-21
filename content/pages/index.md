@@ -206,11 +206,11 @@ sections:
       type: TitleBlock
     subtitle: Triceratops
     text: >+
-      #### **Triceratops - Vị vua ba sừng:** Bạn đã bao giờ mơ ước được du hành
-      ngược thời gian, khám phá thế giới của những sinh vật khổng lồ đã từng
-      thống trị Trái Đất? Hãy cùng chúng tôi bước vào cuộc phiêu lưu kỳ thú, gặp
-      gỡ Triceratops - loài khủng long ăn cỏ oai vệ, biểu tượng của sức mạnh và
-      sự kiên cường!
+      #### **Triceratops - Vị vua ba sừng:** 
+
+      Truyền cảm hứng cho thế hệ trẻ bằng những câu chuyện về Triceratops, khơi
+      dậy lòng yêu thích khoa học và khám phá thế giới tự nhiên.
+
 
     actions:
       - label: Get started
