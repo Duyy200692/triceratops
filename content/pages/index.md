@@ -205,9 +205,68 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      #### **Khám phá thế giới cổ đại cùng Triceratops - Vị vua ba sừng của kỷ
+      Phấn Trắng!**
+
+
+      #### Bạn đã bao giờ mơ ước được du hành ngược thời gian, khám phá thế giới
+      của những sinh vật khổng lồ đã từng thống trị Trái Đất? Hãy cùng chúng tôi
+      bước vào cuộc phiêu lưu kỳ thú, gặp gỡ Triceratops - loài khủng long ăn cỏ
+      oai vệ, biểu tượng của sức mạnh và sự kiên cường!
+
+
+      #### **Triceratops - Chiến binh ba sừng bất khả chiến bại:**
+
+
+      #### Với chiếc đầu được trang bị ba sừng sắc nhọn và tấm khiên xương đồ
+      sộ, Triceratops là một pháo đài di động, sẵn sàng đối đầu với bất kỳ kẻ
+      thù nào.
+
+
+      #### Thân hình đồ sộ, vững chãi, Triceratops hiên ngang sải bước trên
+      những đồng cỏ bao la, gieo rắc nỗi kinh hoàng cho những kẻ săn mồi.
+
+
+      #### Dù là loài ăn cỏ, Triceratops không hề hiền lành. Chúng là những
+      chiến binh dũng mãnh, sẵn sàng bảo vệ lãnh thổ và đồng loại của mình.
+
+
+      #### **Triceratops - Biểu tượng của sức mạnh và sự kiên cường:**
+
+
+      #### Triceratops không chỉ là một loài khủng long, chúng là biểu tượng của
+      sức mạnh phi thường, sự kiên cường bất khuất và tinh thần chiến đấu quả
+      cảm.
+
+
+      #### Hình ảnh Triceratops đã trở thành nguồn cảm hứng cho nhiều tác phẩm
+      nghệ thuật, phim ảnh và trò chơi, khơi dậy trí tưởng tượng và lòng dũng
+      cảm của con người.
+
+
+      #### **Hãy để Triceratops đồng hành cùng bạn:**
+
+
+      #### Khám phá những bí ẩn về loài khủng long Triceratops qua những bộ phim
+      tài liệu, sách báo và bảo tàng.
+
+
+      #### Sưu tầm những mô hình Triceratops sống động, tái hiện lại thế giới
+      khủng long kỳ vĩ.
+
+
+      #### Truyền cảm hứng cho thế hệ trẻ bằng những câu chuyện về Triceratops,
+      khơi dậy lòng yêu thích khoa học và khám phá thế giới tự nhiên.
+
+
+      #### **Triceratops - Một phần của lịch sử, một biểu tượng vĩnh cửu!**
+
+
+      #### 
+
+
+
     actions:
       - label: Get started
         url: /
