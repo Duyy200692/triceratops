@@ -231,7 +231,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: tricocafe.com
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
