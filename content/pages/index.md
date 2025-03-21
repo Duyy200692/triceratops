@@ -283,7 +283,7 @@ sections:
       text: Tricocafe.com
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Triceratopscoffee
     text: >+
       **Liên hệ với chúng tôi :**
 
