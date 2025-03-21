@@ -201,7 +201,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Biểu tượng của sức mạnh và sự kiên cường
       color: text-dark
       type: TitleBlock
     subtitle: Triceratops
