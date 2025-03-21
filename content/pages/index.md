@@ -280,7 +280,7 @@ sections:
           - pr-16
         justifyContent: center
   - title:
-      text: Generic Section With A Form
+      text: Tricocafe.com
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
