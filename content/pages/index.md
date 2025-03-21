@@ -223,7 +223,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/view-extinct-triceratops-dinosaur-creature.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
