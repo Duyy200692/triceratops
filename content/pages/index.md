@@ -204,7 +204,7 @@ sections:
       text: Biểu tượng của sức mạnh và sự kiên cường
       color: text-dark
       type: TitleBlock
-    subtitle: Triceratops
+    subtitle: Trico
     text: >+
       #### **Triceratops - Vị vua ba sừng:** 
 
