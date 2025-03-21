@@ -201,13 +201,17 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Biểu tượng của sức mạnh và sự kiên cường
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: Trico
+    text: >+
+      #### **Triceratops - Vị vua ba sừng:** 
+
+      Truyền cảm hứng cho thế hệ trẻ bằng những câu chuyện về Triceratops, khơi
+      dậy lòng yêu thích khoa học và khám phá thế giới tự nhiên.
+
+
     actions:
       - label: Get started
         url: /
@@ -223,11 +227,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/view-extinct-triceratops-dinosaur-creature.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: tricocafe.com
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -276,10 +280,10 @@ sections:
           - pr-16
         justifyContent: center
   - title:
-      text: Generic Section With A Form
+      text: Tricocafe.com
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Triceratopscoffee
     text: >+
       **Liên hệ với chúng tôi :**
 
