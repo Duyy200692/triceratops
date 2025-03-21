@@ -201,54 +201,6 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Triceratops - Vị vua ba sừng
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'Khám phá thế giới cổ đại '
-    text: >+
-      **Triceratops - Chiến binh ba sừng bất khả chiến bại:**
-
-
-      *   Với chiếc đầu được trang bị ba sừng sắc nhọn và tấm khiên xương đồ sộ,
-      Triceratops là một pháo đài di động, sẵn sàng đối đầu với bất kỳ kẻ thù
-      nào.
-
-
-      *   Thân hình đồ sộ, vững chãi, Triceratops hiên ngang sải bước trên những
-      đồng cỏ bao la, gieo rắc nỗi kinh hoàng cho những kẻ săn mồi.
-
-
-      *   Dù là loài ăn cỏ, Triceratops không hề hiền lành. Chúng là những chiến
-      binh dũng mãnh, sẵn sàng bảo vệ lãnh thổ và đồng loại của mình
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/view-extinct-triceratops-dinosaur-creature.jpg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: tricocafe.com
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
