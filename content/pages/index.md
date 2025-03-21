@@ -204,7 +204,7 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Triceratops
     text: >+
       #### **Triceratops - Vị vua ba sừng:** Bạn đã bao giờ mơ ước được du hành
       ngược thời gian, khám phá thế giới của những sinh vật khổng lồ đã từng
