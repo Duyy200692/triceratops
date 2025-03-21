@@ -206,7 +206,7 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >+
-      #### **Triceratops - Vị vua ba sừng** Bạn đã bao giờ mơ ước được du hành
+      #### **Triceratops - Vị vua ba sừng:** Bạn đã bao giờ mơ ước được du hành
       ngược thời gian, khám phá thế giới của những sinh vật khổng lồ đã từng
       thống trị Trái Đất? Hãy cùng chúng tôi bước vào cuộc phiêu lưu kỳ thú, gặp
       gỡ Triceratops - loài khủng long ăn cỏ oai vệ, biểu tượng của sức mạnh và
