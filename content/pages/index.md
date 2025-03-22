@@ -40,9 +40,9 @@ sections:
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: |
-          Nhóm Hương Vị: Cam vàng, Caramel, hậu vị ngọt
+          **Nhóm Hương Vị**: Cam vàng, Caramel, hậu vị ngọt
 
-          Rang Nhẹ (light roast)
+          **Rang Nhẹ (light roast)**
         image:
           type: ImageBlock
           url: /images/triceratops - arabica.png
