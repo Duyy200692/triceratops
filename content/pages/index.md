@@ -39,8 +39,8 @@ sections:
         title: ARABICA
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |2
+           Hương Vị: Cam vàng, Caramel, hậu vị ngọt
         image:
           type: ImageBlock
           url: /images/triceratops - arabica.png
