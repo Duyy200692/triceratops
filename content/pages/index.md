@@ -16,7 +16,8 @@ sections:
         title: ROBUSTA
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
-        text: "Flavour:\_Riped tropical fruits, brown sugar, dark chocolate\n"
+        text: |
+          **Hương Vị :** trái cây nhiệt đới chín, đường nâu, sô cô la đen
         image:
           type: ImageBlock
           url: /images/triceratops - ro.png
