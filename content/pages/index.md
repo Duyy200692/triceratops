@@ -108,7 +108,7 @@ sections:
       - url: /images/vanci 200x80.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/lindo 200x80.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
