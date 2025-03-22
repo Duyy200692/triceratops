@@ -16,7 +16,10 @@ sections:
         title: ROBUSTA
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
-        text: "Flavour:\_Riped tropical fruits, brown sugar, dark chocolate\n"
+        text: |
+          **Hương Vị :** trái cây nhiệt đới chín, đường nâu, sô cô la đen
+
+          **Rang vừa (medium roast)**
         image:
           type: ImageBlock
           url: /images/triceratops - ro.png
@@ -40,7 +43,9 @@ sections:
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          **Nhóm Hương Vị**: Cam vàng, Caramel, hậu vị ngọt
+
+          **Rang Nhẹ (light roast)**
         image:
           type: ImageBlock
           url: /images/triceratops - arabica.png
@@ -63,7 +68,7 @@ sections:
         title: BLEND
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
-        text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n\n\n**Rang vừa (medium roast)**\n\n**Phù hợp: Espresso / Phin / AeroPress / Cold Brew**\n"
+        text: "**Nhóm hương:**\_Socola đen, nhóm trái có múi cam chanh\n\n**Rang vừa (medium roast)**\n"
         image:
           type: ImageBlock
           url: /images/triceratops - blend.png
@@ -97,19 +102,19 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/lindo 200x80.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/vanci 200x80.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/lindo 200x80.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/LOGO 54X21 DEN.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/vanci 200x80.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/lindo 200x80.png
