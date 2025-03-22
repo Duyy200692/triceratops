@@ -42,7 +42,7 @@ sections:
         text: |
           Nhóm Hương Vị: Cam vàng, Caramel, hậu vị ngọt
 
-          Rang : light
+          Rang Nhẹ (light roast)
         image:
           type: ImageBlock
           url: /images/triceratops - arabica.png
