@@ -39,8 +39,10 @@ sections:
         title: ARABICA
         tagline: This is the tagline
         subtitle: Espresso / Phin / AeroPress / Cold Brew
-        text: |2
-           Hương Vị: Cam vàng, Caramel, hậu vị ngọt
+        text: |
+          Nhóm Hương Vị: Cam vàng, Caramel, hậu vị ngọt
+
+          Rang : light
         image:
           type: ImageBlock
           url: /images/triceratops - arabica.png
