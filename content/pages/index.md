@@ -111,7 +111,7 @@ sections:
       - url: /images/lindo 200x80.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/LOGO 54X21 DEN.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/vanci 200x80.png
