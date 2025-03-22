@@ -105,7 +105,7 @@ sections:
       - url: /images/lindo 200x80.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/vanci 200x80.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
