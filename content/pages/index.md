@@ -245,6 +245,48 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: triceratops video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: sức mạnh tiềm ẩn của một loài động vật ăn cỏ to lớn
+    text: >+
+
+      Tiếng gầm của Triceratops, dù chỉ là tưởng tượng, chắc chắn là một âm
+      thanh đầy uy lực và gợi nhớ về một kỷ nguyên đã qua.
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtu.be/gPX00YVRAPE'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
