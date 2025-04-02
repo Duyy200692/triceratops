@@ -253,7 +253,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: sức mạnh tiềm ẩn của một loài động vật ăn cỏ to lớn
     text: >+
 
       Tiếng gầm của Triceratops, dù chỉ là tưởng tượng, chắc chắn là một âm
