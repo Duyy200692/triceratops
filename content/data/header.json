@@ -43,24 +43,24 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Robusta",
+                    "url": "https://www.facebook.com/profile.php?id=61573891087942",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Arabica",
+                    "url": "https://www.facebook.com/profile.php?id=61573891087942",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Blend",
+                    "url": "https://www.facebook.com/profile.php?id=61573891087942",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
