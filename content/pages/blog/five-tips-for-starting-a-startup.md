@@ -3,11 +3,11 @@ title: Hiệu ứng "đa giác quan" trong trải nghiệm cà phê
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Hiệu ứng "đa giác quan" trong trải nghiệm cà phê đề cập đến cách tất cả các
+  giác quan của chúng ta phối hợp để tạo nên cảm nhận và sự thưởng thức trọn vẹn
+  khi uống cà phê. Dưới đây là phân tích vai trò của từng giác quan
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/Frame 71.png
   altText: Thumbnail
   type: ImageBlock
   styles:
