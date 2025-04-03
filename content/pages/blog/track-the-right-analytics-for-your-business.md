@@ -8,7 +8,7 @@ excerpt: >-
   bộ phận người tiêu dùng nhất định. Dưới đây là những lý do chính tại sao người
   ta làm cà phê decaf
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/Frame 72.png
   altText: Thumbnail
   type: ImageBlock
   styles:
