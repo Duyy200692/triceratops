@@ -3,11 +3,12 @@ title: Hiểu về nước pha cà phê
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Nước là một thành phần quan trọng, chiếm tới 98-99% trong một tách cà phê pha.
+  Chất lượng nước bạn sử dụng sẽ có tác động đáng kể đến hương vị cuối cùng của
+  cà phê. Hiểu về nước pha cà phê là một yếu tố then chốt để có được những tách
+  cà phê ngon nhất. Dưới đây là những điều bạn cần biết
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Frame 69.png
   altText: Thumbnail
   type: ImageBlock
   styles:
