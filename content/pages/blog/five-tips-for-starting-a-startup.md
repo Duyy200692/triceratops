@@ -7,7 +7,7 @@ excerpt: >-
   giác quan của chúng ta phối hợp để tạo nên cảm nhận và sự thưởng thức trọn vẹn
   khi uống cà phê. Dưới đây là phân tích vai trò của từng giác quan
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/Frame 71.png
   altText: Thumbnail
   type: ImageBlock
   styles:
