@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: Hiệu ứng "đa giác quan" trong trải nghiệm cà phê
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
