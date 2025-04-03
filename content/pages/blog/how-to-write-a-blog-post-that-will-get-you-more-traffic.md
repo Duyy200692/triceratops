@@ -8,7 +8,7 @@ excerpt: >-
   phá cách con người cảm nhận và diễn giải các hợp chất hóa học tạo nên mùi thơm
   đặc trưng của cà phê. Dưới đây là một số khía cạnh quan trọng
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Frame 70.png
   altText: Thumbnail
   type: ImageBlock
   styles:
