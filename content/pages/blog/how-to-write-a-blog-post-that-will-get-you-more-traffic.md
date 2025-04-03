@@ -4,9 +4,9 @@ title: Khoa học cảm quan về mùi hương cà phê
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Khoa học cảm quan về mùi hương cà phê là một lĩnh vực phức tạp và thú vị, khám
+  phá cách con người cảm nhận và diễn giải các hợp chất hóa học tạo nên mùi thơm
+  đặc trưng của cà phê. Dưới đây là một số khía cạnh quan trọng
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
