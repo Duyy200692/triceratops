@@ -6,7 +6,7 @@ date: '2023-02-20'
 excerpt: >-
   Cà phê decaf không phải là lựa chọn duy nhất, nhưng nó đáp ứng nhu cầu của một
   bộ phận người tiêu dùng nhất định. Dưới đây là những lý do chính tại sao người
-  ta làm cà phê decaf:
+  ta làm cà phê decaf
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
